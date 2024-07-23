@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/StarterContent/Particles/P_Fire.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Levels/MainLevel.umap",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Assets/Oofers/Komaeda.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/BP_PlayerCharacter.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/GM_GAMEMODE.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Input/Actions/IA_Look.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Input/Actions/IA_Move.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Input/IMC_default.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/BP_Mom.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Assets/Oofers/Komaeda_Sprite.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/BP_ChoreBase.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/ChoreLogic/BP_ChoreBase.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/ChoreLogic/Vacuum.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Input/Actions/IA_Interact.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/Gameplay/BL_Interaction.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Assets/Oofers/Trashcan.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Assets/Oofers/Trashcan_Sprite.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Assets/Oofers/vacuum.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Assets/Oofers/vacuum_Sprite.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Levels/TestLevel.umap",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/Dialogue/Enum_DialogueState.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Levels/_GENERATED/oofers/CubeGridToolOutput_142224C5.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/_GENERATED/oofers/CubeGridToolOutput_8614D934.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Levels/_GENERATED/oofers/CubeGridToolOutput_F3B4438A.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Levels/_GENERATED/oofers/Cylinder_E396C4ED.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Levels/_GENERATED/oofers/Disc_B71DC7DF.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/UI/W_Dialogue.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/Dialogue/AC_DialogueBase.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Sprites/Oofers/Komaeda_Sprite.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Sprites/Oofers/Mom.uasset",
+				"/Volumes/Jolo/Unreal Games/ThemedHorrorJam/Content/Blueprints/PlayerCharacter.uasset"
+			]
+		}
+	]
+}
